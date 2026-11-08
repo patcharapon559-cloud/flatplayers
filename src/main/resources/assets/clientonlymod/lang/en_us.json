@@ -1,0 +1,6 @@
+{
+  "key.categories.clientonlymod": "Client Only HUD",
+  "key.clientonlymod.toggle": "Toggle HUD",
+  "message.clientonlymod.hud_on": "HUD: ON",
+  "message.clientonlymod.hud_off": "HUD: OFF"
+}
